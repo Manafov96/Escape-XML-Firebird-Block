@@ -1,0 +1,1 @@
+This is firebird block for escape XML.
